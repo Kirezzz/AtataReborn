@@ -1,6 +1,6 @@
 ﻿using Atata.Configuration.Json;
 
-namespace AtataReborn.Properties
+namespace AtataReborn
 {
     /// <summary>
     /// Represents configuration that is read from "Atata.json".
